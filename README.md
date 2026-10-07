@@ -102,3 +102,8 @@ ai-seo/
 ## 📄 License
 
 MIT License — 自由使用、修改、分发。
+
+## 商业授权
+
+个人学习、研究、测试和非商业使用可以。商业使用请先联系 **linxu.money@gmail.com** 获得授权，详见 [COMMERCIAL-LICENSING.md](COMMERCIAL-LICENSING.md)。
+
